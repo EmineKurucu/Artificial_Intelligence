@@ -109,3 +109,4 @@ Adım 14: (0, 6)**
 
 Total steps: **15** (including the starting point)
 
+
